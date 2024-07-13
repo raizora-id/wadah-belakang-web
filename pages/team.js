@@ -17,7 +17,7 @@ const pageTeam = () => {
                             <div className="row align-items-center">
                                 <div className="col-lg-5">
                                     <h2 className="color-brand-1 mb-20">Customers Love Our Creative Team, and So Will You</h2>
-                                    <div className="box-button mt-30 mb-60"> <Link className="btn btn-brand-1 hover-up" href="#">Contact Us</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">
+                                    <div className="box-button mt-30 mb-60"> <Link className="btn btn-brand hover-up" href="#">Contact Us</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">
                                         Support Center
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -304,7 +304,7 @@ const pageTeam = () => {
                                         <p className="font-md color-grey-500">Access advanced order types including limit, market, stop limit and dollar cost averaging. Track your total asset holdings, values and equity over time. Monitor markets, manage your portfolio, and trade crypto on the go.</p>
                                     </div>
                                 </div>
-                                <div className="mt-50 text-start"><Link className="btn btn-brand-1 hover-up" href="#">Contact Us</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">Learn More
+                                <div className="mt-50 text-start"><Link className="btn btn-brand hover-up" href="#">Contact Us</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">Learn More
                                     <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                     </svg></Link></div>

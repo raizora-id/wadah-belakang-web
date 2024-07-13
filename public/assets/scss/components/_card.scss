@@ -188,7 +188,7 @@
         text-transform: uppercase;
         background-color: #FFE7BB;
         font-weight: bold;
-        color: $color-brand-1;
+        color: $color-brand;
         z-index: 3;
     }
     &.card-plan-2 {
@@ -286,14 +286,14 @@
         border-bottom: 3px solid $color-gray-300;
     }
     .card-head {
-        color: $color-brand-1;
+        color: $color-brand;
         font-size: 64px;
         line-height: 72px;
         font-weight: 700;
     }
     .card-description {
         font-size: 18px;
-        color: $color-brand-1;
+        color: $color-brand;
         line-height: 24px;
         font-weight: 700;
     }
@@ -373,20 +373,20 @@
             padding: 20px 0px 0px 0px;
             border-bottom: 0px solid #CDE2E7;
         }
-        .btn-brand-1-full {
+        .btn-brand-full {
             background-color: $background-white;
-            border: 1px solid $color-brand-1;
+            border: 1px solid $color-brand;
             border-radius: 4px;
-            color: $color-brand-1;
+            color: $color-brand;
             * {
-                color: $color-brand-1;
+                color: $color-brand;
             }
             &:hover {
-                border: 1px solid $color-brand-1 !important;
-                color: $color-brand-2;
-                background-color: $color-brand-1;
+                border: 1px solid $color-brand !important;
+                color: $color-brand-text;
+                background-color: $color-brand;
                 * {
-                    color: $color-brand-2 !important;
+                    color: $color-brand-text !important;
                 }
             }
         }
@@ -403,7 +403,7 @@
     }
     .card-info {
         a {
-            color: $color-brand-1;
+            color: $color-brand;
             text-decoration: none;
         }
     }
@@ -459,7 +459,7 @@
             line-height: 64px;
             svg {
                 height: 32px;
-                color: $color-brand-1;
+                color: $color-brand;
             }
         }
     }

@@ -9,17 +9,17 @@
         height: 42px;
         width: 42px;
         border-radius: 50%;
-        border: 1px solid $color-brand-1;
+        border: 1px solid $color-brand;
         line-height: 10px;
         svg {
-            color: $color-brand-1;
+            color: $color-brand;
         }
         &:hover {
-            background-color: $color-brand-1;
-            color: $color-brand-2;
+            background-color: $color-brand;
+            color: $color-brand-text;
         }
         &:hover * {
-            color: $color-brand-2;
+            color: $color-brand-text;
         }
     }
     .slick-next {
@@ -30,17 +30,17 @@
         height: 42px;
         width: 42px;
         border-radius: 50%;
-        border: 1px solid $color-brand-1;
+        border: 1px solid $color-brand;
         line-height: 10px;
         svg {
-            color: $color-brand-1;
+            color: $color-brand;
         }
         &:hover {
-            background-color: $color-brand-1;
-            color: $color-brand-2;
+            background-color: $color-brand;
+            color: $color-brand-text;
         }
         &:hover * {
-            color: $color-brand-2;
+            color: $color-brand-text;
         }
     }
     .slick-slide {

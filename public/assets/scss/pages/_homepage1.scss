@@ -168,10 +168,10 @@
                 transition-duration: 0.2s;
             }
             &:hover, &.active {
-                background-color: $color-brand-1-hover;
-                color: $color-brand-2 !important;
+                background-color: $color-brand-hover;
+                color: $color-brand-text !important;
                 svg, * {
-                    color: $color-brand-2 !important;
+                    color: $color-brand-text !important;
                 }
             }
             &:hover {
@@ -188,7 +188,7 @@
         font-size: 20px;
         line-height: 28px;
         font-weight: 700;
-        color: $color-brand-1;
+        color: $color-brand;
         border: 0px;
         padding: 25px 30px 20px 30px;
         border-top-left-radius: 8px;

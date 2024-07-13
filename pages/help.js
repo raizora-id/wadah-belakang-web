@@ -24,7 +24,7 @@ const Help = () => {
                                         <div className="box-notify-me mt-15">
                                             <div className="inner-notify-me">
                                                 <input className="form-control" type="text" placeholder="Search the doc .." />
-                                                <button className="btn btn-brand-1 font-md">Search
+                                                <button className="btn btn-brand font-md">Search
                                                     <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                                     </svg>
@@ -233,7 +233,7 @@ const Help = () => {
                                     <div className="box-info-answer"><span className="btn btn-tag">More help</span>
                                         <h2 className="color-brand-1 mt-10 mb-15">Can’t find an answer?</h2>
                                         <p className="color-grey-500 font-md">Make use of a qualified tutor to get the answer</p>
-                                        <div className="box-button mt-30"> <Link className="btn btn-brand-1 hover-up" href="#">Ask a Question</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">
+                                        <div className="box-button mt-30"> <Link className="btn btn-brand hover-up" href="#">Ask a Question</Link><Link className="btn btn-default font-sm-bold hover-up" href="#">
                                             Contact Us
                                             <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />

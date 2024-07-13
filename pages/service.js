@@ -107,7 +107,7 @@ const pageServices = () => {
                                             </li>
                                         </ul>
                                     </div>
-                                    <div className="mt-50 text-start"> <Link className="btn btn-brand-1 hover-up" href="#">Download App </Link><Link className="btn btn-default font-sm-bold hover-up" href="#">Learn More
+                                    <div className="mt-50 text-start"> <Link className="btn btn-brand hover-up" href="#">Download App </Link><Link className="btn btn-default font-sm-bold hover-up" href="#">Learn More
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -158,7 +158,7 @@ const pageServices = () => {
                                             </div>
                                         </div>
                                         <div className="box-day-trial"> <span className="font-lg-bold color-brand-1">FREE </span> <span className="font-md color-grey-500">- 30 days trial </span><br /><span className="font-xs color-grey-500">No Credit card required</span></div>
-                                        <div className="mt-20"> <Link className="btn btn-brand-1-full hover-up" href="#">Try for free
+                                        <div className="mt-20"> <Link className="btn btn-brand-full hover-up" href="#">Try for free
                                             <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></Link></div>
@@ -200,7 +200,7 @@ const pageServices = () => {
                                             </div>
                                         </div>
                                         <div className="box-day-trial"> <span className="font-lg-bold color-brand-1 text-price-standard">${pricing == 1 ? "29" : "388"} </span> <span className="font-md color-grey-500 text-type-standard">- user / month </span><br /><span className="font-xs color-grey-500">Billed annually</span></div>
-                                        <div className="mt-20"> <Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                        <div className="mt-20"> <Link className="btn btn-brand-full hover-up" href="#">Get Started
                                             <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></Link></div>
@@ -252,7 +252,7 @@ const pageServices = () => {
                                             </div>
                                         </div>
                                         <div className="box-day-trial"> <span className="font-lg-bold color-brand-1 text-price-business">${pricing == 1 ? "99" : "1,188"} </span> <span className="font-md color-grey-500 text-type-business">- user / month</span><br /><span className="font-xs color-grey-500">Billed annually</span></div>
-                                        <div className="mt-20"> <Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                        <div className="mt-20"> <Link className="btn btn-brand-full hover-up" href="#">Get Started
                                             <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></Link></div>
@@ -309,7 +309,7 @@ const pageServices = () => {
                                             </div>
                                         </div>
                                         <div className="box-day-trial"> <span className="font-lg-bold color-brand-1 text-price-enterprise">${pricing == 1 ? "299" : "3,588"} </span> <span className="font-md color-grey-500 text-type-enterprise">- user / month</span><br /><span className="font-xs color-grey-500">One-time pay</span></div>
-                                        <div className="mt-20"> <Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                        <div className="mt-20"> <Link className="btn btn-brand-full hover-up" href="#">Get Started
                                             <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></Link></div>

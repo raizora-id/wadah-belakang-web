@@ -73,7 +73,7 @@ const Header = ({ handleOpen, handleRemove, openClass, addClass }) => {
                                         </ul>
                                     </div>
                                 </div>
-                                <div className="d-none d-sm-inline-block"><Link className="btn btn-brand-1 hover-up" href="register">Talk to us</Link></div>
+                                <div className="d-none d-sm-inline-block"><Link className="btn btn-brand hover-up" href="register">Talk to us</Link></div>
                             </div>
                         </div>
                     </div>

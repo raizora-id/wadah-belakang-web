@@ -1,7 +1,7 @@
 .header-home5 {
     &.header {
         border-bottom: 0px;
-        background-color: $color-brand-1;
+        background-color: $color-brand;
         .main-menu {
             > li {
                 > a {
@@ -18,16 +18,16 @@
         .search-post svg {
             color: $color-white;
         }
-        .btn-brand-1 {
+        .btn-brand {
             background-color: $color-brand-2;
-            color: $color-brand-1;
+            color: $color-brand;
         }
     }
     .burger-icon.burger-icon-white > span::before, .burger-icon.burger-icon-white > span::after {
         background-color: $background-white;
     }
     .burger-icon.burger-close.burger-icon-white > span::before, .burger-icon.burger-close.burger-icon-white > span::after {
-        background-color: $color-brand-1;
+        background-color: $color-brand;
     }
 }
 .banner-5 {
@@ -44,7 +44,7 @@
         position: absolute;
         top: 0px;
         left: 0px;
-        background-color: $color-brand-1;
+        background-color: $color-brand;
         z-index: 1;
     }
     .container {

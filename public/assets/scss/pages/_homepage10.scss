@@ -33,9 +33,9 @@
             font-weight: bold !important;
             padding: 24px 32px !important;
             &.active {
-                color: $color-brand-1 !important;
+                color: $color-brand !important;
                 background-color: $color-brand-2 !important;
-                border: 1px solid $color-brand-1 !important;
+                border: 1px solid $color-brand !important;
             }
         }
     }

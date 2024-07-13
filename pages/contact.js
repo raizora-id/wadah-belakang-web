@@ -158,7 +158,7 @@ const ContactUs = () => {
                                         </div>
                                         <div className="col-xl-4 col-lg-5 col-md-5 col-sm-6 col-9">
                                             <div className="form-group">
-                                                <button className="btn btn-brand-1-full font-sm" type="submit">Send message
+                                                <button className="btn btn-brand-full font-sm" type="submit">Send message
                                                     <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                                     </svg>
@@ -208,7 +208,7 @@ const ContactUs = () => {
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></a></li>
                                 </ul>
-                                    <div className="mt-80 text-start mb-40"><a className="btn btn-brand-1 hover-up" href="#">Contact Us</a><a className="btn btn-default font-sm-bold hover-up" href="#">Support Center
+                                    <div className="mt-80 text-start mb-40"><a className="btn btn-brand hover-up" href="#">Contact Us</a><a className="btn btn-default font-sm-bold hover-up" href="#">Support Center
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></a></div>

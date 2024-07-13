@@ -48,13 +48,13 @@
                     line-height: 24px;
                     cursor: pointer;
                     &:hover {
-                        color: $color-brand-1;
+                        color: $color-brand;
                     }
                     .arrow-down {
                         background: url(../imgs/template/icons/angle-down.svg) no-repeat right top 3px;
                         padding-right: 22px;
                         &:hover {
-                            color: $color-brand-1;
+                            color: $color-brand;
                         }
                     }
                 }
@@ -160,7 +160,7 @@
                         a {
                             padding-left: 0px;
                             padding-right: 0px;
-                            color: $color-brand-1;
+                            color: $color-brand;
                             svg {
                                 color: $color-gray-200;
                                 margin-right: 5px;
@@ -235,7 +235,7 @@
 }
 .box-notify svg {
     height: 14px;
-    color: $color-brand-2;
+    color: $color-brand-text;
 }
 .sticky-bar {
     &.stick {
@@ -407,7 +407,7 @@
             a {
                 color: $color-brand-3;
                 &:hover {
-                    color: $color-brand-1;
+                    color: $color-brand;
                 }
             }
         }
@@ -426,7 +426,7 @@
     }
     .color-brand-3 {
         &:hover {
-            color: $color-brand-1 !important;
+            color: $color-brand !important;
         }
     }
 }

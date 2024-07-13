@@ -218,7 +218,7 @@ const Blog1 = () => {
                                     </div>
                                 </div>
                             </div>
-                            <div className="mt-20 mb-30 text-center"> <Link className="btn btn-brand-1 font-sm-bold" href="#">Load More...</Link></div>
+                            <div className="mt-20 mb-30 text-center"> <Link className="btn btn-brand font-sm-bold" href="#">Load More...</Link></div>
                         </div>
                     </div>
                 </section>
