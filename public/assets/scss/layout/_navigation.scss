@@ -132,7 +132,7 @@
                                 font-weight: 500;
                                 position: relative;
                                 display: inline-block;
-                                color: $color-brand-1;
+                                color: $color-brand;
                                 transition-duration: 0.2s;
                                 text-decoration: none;
                                 i {
@@ -373,7 +373,7 @@
 }
 .burger-icon.burger-close.burger-icon-white>span::before,
 .burger-icon.burger-close.burger-icon-white>span::after {
-    background-color: $color-brand-1;
+    background-color: $color-brand;
 }
 
 .mobile-search {
@@ -503,13 +503,13 @@
             font-size: 14px;
             line-height: 18px;
             font-weight: bold;
-            color: $color-brand-1;
+            color: $color-brand;
             svg {
                 height: 14px;
                 vertical-align: middle;
                 float: left;
                 margin: 2px 5px 0px 0px !important;
-                color: $color-brand-1;
+                color: $color-brand;
             }
             &:hover, &:hover *, &.active {
                 color: $color-success;

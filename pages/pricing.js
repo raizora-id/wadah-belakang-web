@@ -84,7 +84,7 @@ const pagePrice = () => {
                                             </li>
                                         </ul>
                                     </div>
-                                    <div className="mt-20"><Link className="btn btn-brand-1-full hover-up" href="#">Try for free
+                                    <div className="mt-20"><Link className="btn btn-brand-full hover-up" href="#">Try for free
                                         <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -144,7 +144,7 @@ const pagePrice = () => {
                                             </li>
                                         </ul>
                                     </div>
-                                    <div className="mt-20"><Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                    <div className="mt-20"><Link className="btn btn-brand-full hover-up" href="#">Get Started
                                         <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -204,7 +204,7 @@ const pagePrice = () => {
                                             </li>
                                         </ul>
                                     </div>
-                                    <div className="mt-20"><Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                    <div className="mt-20"><Link className="btn btn-brand-full hover-up" href="#">Get Started
                                         <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -264,7 +264,7 @@ const pagePrice = () => {
                                             </li>
                                         </ul>
                                     </div>
-                                    <div className="mt-20"><Link className="btn btn-brand-1-full hover-up" href="#">Get Started
+                                    <div className="mt-20"><Link className="btn btn-brand-full hover-up" href="#">Get Started
                                         <svg className="w-6 h-6 icon-16 ml-10" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></Link></div>
@@ -567,7 +567,7 @@ const pagePrice = () => {
                                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                             </svg></a></li>
                                     </ul>
-                                    <div className="mt-80 text-start mb-40"><Link className="btn btn-brand-1 hover-up" href="#">Contact Us</Link><a className="btn btn-default font-sm-bold hover-up" href="#">Support Center
+                                    <div className="mt-80 text-start mb-40"><Link className="btn btn-brand hover-up" href="#">Contact Us</Link><a className="btn btn-default font-sm-bold hover-up" href="#">Support Center
                                         <svg className="w-6 h-6 icon-16 ml-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
                                         </svg></a></div>

@@ -3,10 +3,10 @@
         background-color: $color-brand-2;
     }
     .box-notify svg {
-        color: $color-brand-1;
+        color: $color-brand;
     }
     .color-brand-2 {
-        color: $color-brand-1 !important;
+        color: $color-brand !important;
     }
 }
 .box-radius-logo {
@@ -44,7 +44,7 @@
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
-        background-color: $color-brand-1;
+        background-color: $color-brand;
         left: 0px;
     }
 }
@@ -65,7 +65,7 @@
     display: flex;
     margin-bottom: 40px;
     .num-ele {
-        background-color: $color-brand-1;
+        background-color: $color-brand;
         height: 83px;
         width: 83px;
         max-width: 83px;
@@ -73,7 +73,7 @@
         line-height: 83px;
         text-align: center;
         font-size: 48px;
-        color: $color-brand-2;
+        color: $color-brand-text;
         font-weight: bold;
         margin-right: 20px;
         border-radius: 50%;
@@ -136,7 +136,7 @@
             text-decoration: none;
             font-size: 18px;
             line-height: 24px;
-            color: $color-brand-1;
+            color: $color-brand;
             font-weight: 700;
             display: block;
             padding: 10px 20px;

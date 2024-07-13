@@ -75,7 +75,7 @@
     }
     .swiper-pagination-bullet-active {
         opacity: 1;
-        background: $color-brand-1;
+        background: $color-brand;
         width:16px;
         height: 8px;
         border-radius: 7px;
@@ -85,7 +85,7 @@
             background: $color-gray-100;
         }
         .swiper-pagination-bullet-active {
-            background: $color-brand-1;
+            background: $color-brand;
         }
     }
 }

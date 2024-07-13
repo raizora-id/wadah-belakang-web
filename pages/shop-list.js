@@ -31,7 +31,7 @@ const shopList = () => {
                                         <div className="box-quantity">
                                             <div className="form-quantity mr-10">
                                                 <input className="input-quantity" type="text" defaultValue={1} /><span className="button-quantity button-up" /><span className="button-quantity button-down"> </span>
-                                            </div><Link className="btn btn-brand-1 mr-10" href="#">Add To Cart</Link><Link className="btn btn-brand-1 btn-wish" href="#">
+                                            </div><Link className="btn btn-brand mr-10" href="#">Add To Cart</Link><Link className="btn btn-brand btn-wish" href="#">
                                                 <svg className="w-6 h-6 icon-16" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
                                                 </svg></Link>
